@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java-web-1-simple-start:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_web_1_simple_start_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="java-web-1-simple-start/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-web-1-simple-start" />
+          <element id="module-output" name="JavaWebProject2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
