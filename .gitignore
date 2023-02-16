@@ -32,6 +32,8 @@ target/
 out/
 *.iml
 **/.idea/
+**/java-*/
+
 
 
 
