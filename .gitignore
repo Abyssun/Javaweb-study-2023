@@ -27,4 +27,13 @@ hs_err_pid*
 # .idea
 .idea/
 target/
+**/target/
+**/out/
+out/
+*.iml
+**/.idea/
+**/java-*/
+
+
+
 
